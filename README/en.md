@@ -9,7 +9,7 @@ Contributions such as fixing typos and improving explanations are welcome. Pleas
 # Contact
 
 If you have any problems, please contact me on Discord (`https://discord.gg/xXfqzvCYBS`).
-For urgent matters or work requests, please contact me by email (`no.0001.2525@gmail.com`).
+For urgent matters or work requests, please contact me by email (`Noot.cat.contact@gmail.com`).
 
 # Notes
 

@@ -17,7 +17,7 @@ Contributions such as fixing typos and improving explanations are welcome. Pleas
 # Contact
 
 If you have any problems, please contact me on Discord (`https://discord.gg/xXfqzvCYBS`).
-For urgent matters or work requests, please contact me by email (`no.0001.2525@gmail.com`).
+For urgent matters or work requests, please contact me by email (`Noot.cat.contact@gmail.coms`).
 
 # Notes
 
@@ -39,7 +39,7 @@ Therefore, I recommend that you do not take everything at face value and consult
 # 連絡先
 
 何か問題が発生した場合は、Discord (`https://discord.gg/xXfqzvCYBS`) までご連絡ください。
-お急ぎの場合や、お仕事のご依頼は、メール (`no.0001.2525@gmail.com`) にてお願いいたします。
+お急ぎの場合や、お仕事のご依頼は、メール (`Noot.cat.contact@gmail.com`) にてお願いいたします。
 
 # 注意事項
 

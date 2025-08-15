@@ -9,7 +9,7 @@
 # 連絡先
 
 何か問題が発生した場合は、Discord (`https://discord.gg/xXfqzvCYBS`) までご連絡ください。
-お急ぎの場合や、お仕事のご依頼は、メール (`no.0001.2525@gmail.com`) にてお願いいたします。
+お急ぎの場合や、お仕事のご依頼は、メール (`Noot.cat.contact@gmail.comm`) にてお願いいたします。
 
 # 注意事項
 
